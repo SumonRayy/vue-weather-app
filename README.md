@@ -4,12 +4,14 @@
 
 > NOTE: To use this app locally or in a server be sure to create an account on [OpenWeatherMap.org](https://openweathermap.org/) and create a new personal key to use in this app.
 
-![screenshot](splash.png)
+<p align="center">
+<img src="splash.png" alt="screenshot" width="400" />
+</p>
 
 ## features
 
 - 🌍 Current weather based on geolocalization
-- 🗼 Add city manually
+- 🗼 Search any city manually
 - 💮 Minimalistic Design
 - 🌡 Background Image Transition Animation Based on Temperature
 
@@ -49,3 +51,5 @@ You can contribute to improve this project by:
 - creating a pull request
 - submitting new ideas / features suggestions
 - reporting a bug
+
+## Thank You So Much 🥰🙏
